@@ -45,6 +45,4 @@ Contributions to improve the content, design, or functionality of the website ar
 4. Push to the branch: git push origin feature/improvement.
 5. Submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
